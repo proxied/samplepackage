@@ -1,0 +1,7 @@
+To see how this works, first install the setup.py file.
+	(EX: In Windows, you can do this with: 
+		python setup.py install 
+	while in the container directory.)
+	
+You can then navigate to C:\PythonXX\Scripts and view or run samplescript.py
+It contains examples of how to use the two included sample modules.
